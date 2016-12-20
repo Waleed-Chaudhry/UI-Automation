@@ -3,8 +3,6 @@
 * Syntax: $(selector)  
 * Right click an element on a webpage, and click inspect  
 * After inspection, go to console and type: $("input.gsfi") to select the element just inspected
-* $$("input") will bring about all the input tags matching that selector
-* Use $$ when you're figuring stuff out  
 
 **Basic Selector** 
 ```groovy
