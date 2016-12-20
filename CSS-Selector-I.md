@@ -1,7 +1,5 @@
 ##CSS Selector 
 
-<center><img src="https://github.com/timothyylim/interview-prep/blob/master/perfect-tree.png" width="350"></center>
-
 * Syntax: $(selector)  
 * Right click an element on a webpage, and click inspect  
 * After inspection, go to console and type: $("input.gsfi") to select the element just inspected
@@ -9,7 +7,7 @@
 **Basic Selector** 
 ```groovy
 
-<center><img src="https://github.com/Waleed-Chaudh1ry/UI-Automation/blob/master/css-selector-1.png" width="350"></center>
+<center><img src="https://github.com/Waleed-Chaudhry/UI-Automation/blob/master/css-selector-1.png" width="350"></center>
 
 $("input.gsfi") // input is the tag, gsfi is the name of the class  
 $("input#lst-ib") // lst-ib is the id of the element with tag input
