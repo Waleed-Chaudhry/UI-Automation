@@ -9,7 +9,7 @@
 **Basic Selector** 
 ```groovy
 
-<center><img src="https://github.com/Waleed-Chaudhry/UI-Automation/blob/master/css-selector-1.png" width="350"></center>
+<center><img src="https://github.com/Waleed-Chaudh1ry/UI-Automation/blob/master/css-selector-1.png" width="350"></center>
 
 $("input.gsfi") // input is the tag, gsfi is the name of the class  
 $("input#lst-ib") // lst-ib is the id of the element with tag input
